@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+b,
+strong {
+  font-weight: 600;
+}
+
+body {
+  letter-spacing: 0.001em;
+}
+
+.custom-gradient:before {
+  background-size: 400%;
+}
+
+[data-theme="light"] .custom-gradient:after {
+  background-color: white;
+}

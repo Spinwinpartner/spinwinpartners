@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "jackpot": "Hit the Jackpot!",
+    "play&win": "Play & Win!",
+    "bonuses": "Bonuses & Promotions"
+  },
+  "navMenu": {
+    "casino": "Casino",
+    "website": "Website",
+    "registration": "Sign Up",
+    "bonus": "Bonuses",
+    "slot": "Pin-Up Slots",
+    "finance": "Finances",
+    "mirror": "Pin-Up Mirror",
+    "mobile": "Pin-Up Mobile",
+    "support": "Support"
+  },
+  "registration": "Register",
+  "login": "Log In",
+  "site": {
+    "title": "Licensed Slot Machines at Pin-Up - Online Casino with Real Winnings",
+    "description": "Enjoy safe gaming at the licensed Pin-Up Casino 🎰 with 24/7 support, fast payouts, and bonuses for new players 💰. Register and start playing now!",
+    "keywords": "Pin-Up Casino, online casino, Pin-Up bonuses, Curacao license, real money slot machines, casino cashback, gaming slots, casino promotions, Spinomenal, Evolution Gaming"
+  },
+  "seo": {
+    "title1": "Pin-Up Casino",
+    "text1.1": "When choosing an online casino, it’s essential to select reputable brands that have built a strong reputation and consistently provide quality service to their visitors. One such establishment is Pin-Up Casino. This gaming portal offers gambling enthusiasts a vast collection of slot machines for real money and free play, along with generous bonuses, prompt support, and fast payouts.",
+
+    "title2": "Pin-Up Official Website",
+    "text2.1": "Pin-Up Casino entered the gambling entertainment market in 2016, obtaining the appropriate license from the island nation of Curacao. This license guarantees a fair and transparent gaming experience. The main page of the portal features only the essentials: popular slot machines, a menu, and information banners showcasing special offers.",
+    "text2.2": "The site's structure is designed to be as simple and user-friendly as possible, allowing even inexperienced users to navigate easily when selecting their desired section. The platform is continuously evolving, with new slot machines being added regularly. For added convenience, you can download the Pin-Up mobile application for Android directly from the casino's website.",
+
+    "title3": "How to Register at Pin-Up Online Casino",
+    "text3.1": "To play at Pin-Up for real money, claim lucrative bonuses, and withdraw substantial winnings, you need to register. The registration process takes just a few minutes, and once completed, you’ll gain full access to the platform’s features.",
+    "text3.2": "Simply visit the Pin-Up website or its mirror, click on “Registration,” and fill out a brief form. Be sure to provide accurate information (such as your country of residence, date of birth, mobile phone number, email, etc.). During registration, you’ll also need to choose your account currency and create a secure password for logging into your Pin-Up account. It’s quick and easy!",
+
+    "title4": "Pin Up Casino Bonus System",
+    "text4.1": "The platform offers numerous profitable bonuses and incentives that greatly enhance the gaming experience. Bonuses are one of the pillars of modern online casinos. High-quality incentives are among the key factors in attracting new players. The Pin-Up bonus system includes:",
+    "bonus1": "Welcome package – bonus up to 65,000,000 SO’M on first deposit + 250 spins. To get the maximum 120% bonus, you must deposit within an hour of registration.",
+    "bonus2": "Birthday present in the form of a bonus of 80,000 SO’M. A verified account is a mandatory condition for receiving the gift.",
+    "bonus3": "CashBack 10%. It is credited every Monday.",
+    "bonus4": "Gift Box. Every 999999 SO’M of betting turnover is rewarded with a box and guaranteed prizes.",
+    "bonus5": "Attractive personal offers.",
+    "text4.2": "Along with this, many temporary promotions and exciting tournaments are held regularly. You need to apply for participation in the tournament in your account. There is also a loyalty program on the Pin-Up website. Special coins are awarded for various activities - Pincoins (PNC). As a result, they can be exchanged for profitable bonuses.",
+
+    "title5": "Pin Up Slots",
+    "text5.1": "A large collection of licensed games is one of the main advantages of Pin Up UZ. The gambling establishment offers gambling enthusiasts a chic selection of games with a high RTP%, exciting stories and high-quality graphics. Players can try their luck in top slots, table games, Live games, video poker, and progressive jackpot machines.",
+    "text5.2": "The site presents developments of the following well-known providers:",
+    "text5.3": "The most popular Pin Up slot machines are located on the main page of the site. You can filter slots by a specific developer, or enter the name of the slot in the search bar. The number of slot machines in the casino is updated every day. You can see the latest news in the corresponding section.",
+    "provider1": "Spinomenal",
+    "provider2": "Amatic",
+    "provider3": "Belatra",
+    "provider4": "Pragmatic Play",
+    "provider5": "Evolution",
+    "provider6": "3 Oaks Gaming",
+    "provider7": "Other well-known software providers.",
+
+    "title6": "Input and output - finance",
+    "text6.1": "Pin Up Casino provides its customers with many convenient ways to make money transactions, including (VISA, Mastercard, Humo, Perfect Money, Maestro, Piastrix, cryptocurrencies and others). It is very easy to top up your game account. You just need to go to your account, select the appropriate method, specify the required amount and confirm the transaction. Deposits are credited instantly. Withdrawal of funds on the site takes place within 15 minutes.",
+
+    "title7": "Pin-Up Casino Mirror",
+    "text7.1": "The casino site may be temporarily blocked for the following reasons:",
+    "reason1": "Emergency situation.",
+    "reason2": "Hacker attack.",
+    "reason3": "Internet service provider blocking.",
+    "reason4": "Technical work.",
+    "text7.2": "This is not a problem, because there is a Pin Up mirror, with the help of which no blocking is scary. The current mirror is a full copy of the main resource. Players are provided with full access to the functionality of the gambling club at any time of the day. Pin-Up constantly updates the list of mirrors, with the help of which visitors can continuously enjoy their favourite games.",
+
+    "title8": "Mobile version of Pin-Up",
+    "text8.1": "As statistics show, most gamblers prefer to have fun in a casino from a mobile phone. The establishment is presented for visiting a mobile version, with which you can play slots anywhere, wherever you are.",
+    "text8.2": "Just go to the casino website from your smartphone via any browser, and the Pin-Up mobile version will open automatically. It adapts perfectly to any phone on IOS and Android and works without any delays.",
+
+    "title9": "Player support",
+    "text9.1": "Every gambler may have some questions during a gaming session. For such cases, the Pin-Up website provides a 24-hour support service. Experienced specialists are ready to answer any questions related to spending time in the gambling club.",
+    "text9.2": "The easiest and fastest way to get advice is to write to the built-in online chat 24/7. Support specialists will help solve any problem in a short time. There is also a special FAQ section, which already provides answers to the most common questions."
+  },
+  "banners": {
+    "textTitle-1": "Download PIN-UP for",
+    "textDescription-1": "Android and win!",
+    "buttonText-1": "Download",
+    "imageAlt-1": "Download for android",
+    "textTitle-2": "250 FS",
+    "textDescription-2": "to get 20% bonus",
+    "buttonText-2": "Go to website",
+    "imageAlt-2": "Welcome bonus"
+  },
+  "staticImage": {
+    "textTitle": "65,000,000 SOM + 250FS",
+    "textDescription": "FIRST DEPOSIT!",
+    "buttonText": "Get the bonus"
+  },
+  "footer": {
+    "copyright": "All rights reserved.",
+    "titleAppButtons": "Our applications",
+    "titleSocialButtons": "We are on social networks"
+  }
+}
